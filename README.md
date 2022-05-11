@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @galantsw99
+- 👋 Hi, I’m @jurijsk99
 - 👀 I’m interested in cars, investing and music
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on ...
